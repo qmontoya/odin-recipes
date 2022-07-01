@@ -1,0 +1,17 @@
+#header {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-line: underline;
+}
+
+.button {
+    background-color: rgb(116, 223, 116);
+    font-size: 30px;
+}
+
+a:link {
+    color: rgb(3, 48, 3);
+}
+a:visited {
+    color: rgb(3, 48, 3);
+}
